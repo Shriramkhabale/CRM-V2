@@ -67,7 +67,8 @@ const allowedOrigins = [
   'https://digitalschool.cloud',
   'https://udaanjobs.com',
   'https://softwarecompanyinsangli.online',
-  'https://softwarecompanyinsangli.com'
+  'https://softwarecompanyinsangli.com',
+  'https://yashasavibhava.com'
 ];
 
 app.use(cors({
